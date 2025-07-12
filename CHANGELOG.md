@@ -1,3 +1,6 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Initial stable release.
+- Added `createCryptoToken` function for AES + HMAC-based token generation.
+- Added `decryptCryptoToken` function for token decryption.
+- Includes `aes_encrption_helper.dart` for AES encryption/decryption logic.
